@@ -9,7 +9,7 @@ Open source maintainer building tools in **Go** and **TypeScript**.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Projects
+## Some of my projects
 
 - **[qui](https://github.com/autobrr/qui)** — A fast, single-binary qBittorrent web UI with multi-instance management and cross-seed automation
 - **[autobrr](https://github.com/autobrr/autobrr)** — Modern, easy to use download automation for torrents and usenet
