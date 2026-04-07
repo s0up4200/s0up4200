@@ -1,6 +1,6 @@
 # Hey, I'm soup
 
-Open source maintainer building tools in **Go** and **TypeScript**.
+Open source maintainer building tools mostly in **Go** and **TypeScript**.
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
