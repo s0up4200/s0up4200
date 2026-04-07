@@ -25,22 +25,9 @@ Open source maintainer building tools in **Go** and **TypeScript**.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=s0up4200&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=s0up4200&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=s0up4200&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="165" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=s0up4200&theme=github_dark_dimmed&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=s0up4200&theme=default&hide_border=true" />
     <img src="https://streak-stats.demolab.com/?user=s0up4200&theme=github_dark_dimmed&hide_border=true" height="165" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s0up4200&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s0up4200&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0up4200&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" />
   </picture>
 </p>
 
