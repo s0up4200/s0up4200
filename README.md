@@ -47,6 +47,11 @@ Open source maintainer building tools in **Go** and **TypeScript**.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1742](https://github.com/autobrr/qui/pull/1742) in [autobrr/qui](https://github.com/autobrr/qui)
+2. 🎉 Merged PR [#1741](https://github.com/autobrr/qui/pull/1741) in [autobrr/qui](https://github.com/autobrr/qui)
+3. 💪 Opened PR [#1741](https://github.com/autobrr/qui/pull/1741) in [autobrr/qui](https://github.com/autobrr/qui)
+4. 💪 Opened PR [#1740](https://github.com/autobrr/qui/pull/1740) in [autobrr/qui](https://github.com/autobrr/qui)
+5. ❌ Closed PR [#1689](https://github.com/autobrr/qui/pull/1689) in [autobrr/qui](https://github.com/autobrr/qui)
 <!--END_SECTION:activity-->
 
 ## Connect
