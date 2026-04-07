@@ -11,8 +11,8 @@ Open source maintainer building tools in **Go** and **TypeScript**.
 
 ## Projects
 
-- **[autobrr](https://github.com/autobrr/autobrr)** — Modern, easy to use download automation for torrents and usenet
 - **[qui](https://github.com/autobrr/qui)** — A fast, single-binary qBittorrent web UI with multi-instance management and cross-seed automation
+- **[autobrr](https://github.com/autobrr/autobrr)** — Modern, easy to use download automation for torrents and usenet
 - **[mkbrr](https://github.com/autobrr/mkbrr)** — Create, modify and inspect torrent files. Fast.
 - **[netronome](https://github.com/autobrr/netronome)** — Modern network speed testing and monitoring tool
 - **[dashbrr](https://github.com/autobrr/dashbrr)** — A sleek dashboard for monitoring and managing your media stack services
