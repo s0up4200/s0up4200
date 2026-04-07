@@ -21,15 +21,9 @@ Open source maintainer building tools in **Go** and **TypeScript**.
 - **[go-mediainfo](https://github.com/autobrr/go-mediainfo)** — Go rewrite of MediaInfo CLI `Go`
 - **[subtranslator](https://subtranslator.app)** — Subtitle translation app `TypeScript`
 
-## Stats
+## GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=s0up4200&theme=github_dark_dimmed&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=s0up4200&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=s0up4200&theme=github_dark_dimmed&hide_border=true" height="165" />
-  </picture>
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/s0up4200)
 
 ## Connect
 
