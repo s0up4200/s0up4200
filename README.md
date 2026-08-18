@@ -19,7 +19,6 @@ Open source maintainer building tools mostly in **Go** and **TypeScript**.
 - **[omarchy-airpods](https://github.com/s0up4200/omarchy-airpods)** — AirPods noise control, battery, and charging in the Omarchy bar
 - **[go-bdinfo](https://github.com/autobrr/go-bdinfo)** — Go rewrite of BDInfo
 - **[go-mediainfo](https://github.com/autobrr/go-mediainfo)** — Go rewrite of MediaInfo CLI
-- **[subtranslator](https://subtranslator.app)** — Subtitle translation app
 
 ## GitHub Activity
 
