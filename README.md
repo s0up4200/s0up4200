@@ -16,7 +16,7 @@ Open source maintainer building tools mostly in **Go** and **TypeScript**.
 - **[mkbrr](https://github.com/autobrr/mkbrr)** — Create, modify and inspect torrent files. Fast.
 - **[netronome](https://github.com/autobrr/netronome)** — Modern network speed testing and monitoring tool
 - **[dashbrr](https://github.com/autobrr/dashbrr)** — A sleek dashboard for monitoring and managing your media stack services
-- **[anvil](https://github.com/s0up4200/anvil)** — A desktop skills.sh client for managing skills across Claude Code, Codex, and 40+ agents
+- **[omarchy-airpods](https://github.com/s0up4200/omarchy-airpods)** — AirPods noise control, battery, and charging in the Omarchy bar
 - **[go-bdinfo](https://github.com/autobrr/go-bdinfo)** — Go rewrite of BDInfo
 - **[go-mediainfo](https://github.com/autobrr/go-mediainfo)** — Go rewrite of MediaInfo CLI
 - **[subtranslator](https://subtranslator.app)** — Subtitle translation app
